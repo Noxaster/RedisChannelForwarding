@@ -4,7 +4,7 @@ A lightweight script for forwarding messages between Redis channels — perfect 
 
 ## 📌 What Is It?
 
-**RedisChannelForwarding** is a simple Node.js script powered by [ioredis](https://github.com/luin/ioredis) that listens to one Redis channel and republishes parsed and formatted messages to another channel.
+**RedisChannelForwarding** is a simple Node.js script powered by [ioredis](https://github.com/redis/ioredis) that listens to one Redis channel and republishes parsed and formatted messages to another channel.
 
 ## 🧩 Use Cases
 
